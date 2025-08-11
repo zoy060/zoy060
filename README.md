@@ -3,7 +3,7 @@ Hi 👋 My name is Mizanur Rahman Zoy
 
 Currently, I am a student of Computer Science in Bangladesh.
 
-* 🌍  I'm based in in somewhere in Bangladesh
+* 🌍  I'm based in somewhere in Bangladesh
 * 🖥️  See my portfolio at [Link](http://www.linkedin.com/in/mizanur-rahman-zoy-865225189/)
 * ✉️  You can contact me at [mizanurrahmanzoy@gmail.com](mailto:mizanurrahmanzoy@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects.
